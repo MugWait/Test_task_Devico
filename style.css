@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box{
+margin: 20px
+}
+.block_red{
+    background: red;
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+.block_blue{
+    background-color: blue;
+    width: 500px;
+    height: 50px;
+    float: left;
+
+}
+.block_green{
+    background: green;
+    width: 500px;
+    height: 50px;
+    float: left;
+
+
+}
+.block_purple{
+    background: purple;
+    width: 1000px;
+    height: 200px;
+    float: left;
+}
+.block_brown{
+    background: #CE8540;
+    width: 500px;
+    height: 50px;
+    float: left;
+}
+.block_beige{
+    background: #EEE8AE;
+    width: 500px;
+    height: 50px;
+    float: left;
+}
+
+.block_1_color_change{
+    background:#E3CF37;
+}
+
+.block_2_color_change{
+    background:#67A0DC;
+}
+
+.block_3_color_change{
+    background:#EB4C42;
+}
+
+.block_4_color_change{
+    background:#50C878;
+}
+
+.block_5_color_change{
+    background:#006262;
+}
+
+.block_6_color_change{
+    background:#38FAC9;
+}
+
+
+
